@@ -17,7 +17,7 @@ Always exploring new technologies and leveling up my development skills 🚀
 <hr>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=karthik-com&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=somayajula-karthik&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <div>
@@ -61,19 +61,19 @@ Always exploring new technologies and leveling up my development skills 🚀
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik-com&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=somayajula-karthik&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-com&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somayajula-karthik&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik-com&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somayajula-karthik&layout=compact&theme=tokyonight" />
 </p>
 
 <br><br>
 
 <!---
-karthik-com/karthik-com is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+somayajula-karthik/somayajula-karthik is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 --->
